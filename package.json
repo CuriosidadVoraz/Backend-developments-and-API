@@ -1,6 +1,6 @@
 {
-	"author": "Curiosidad Voraz",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Curiosidad Voraz",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
