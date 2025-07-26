@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"description": "App en github ejecutada con render.com para hacer tutoriales de freecodecamp",
 	"author": "Curiosidad Voraz",
 	"dependencies": {
 		"express": "^4.14.0",   
