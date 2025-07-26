@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.0",
 	"description": "App en github ejecutada con render.com para hacer tutoriales de freecodecamp",
 	"keywords":["freecodecamp","tutorial","prueba"],
 	"author": "Curiosidad Voraz",
